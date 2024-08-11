@@ -1,0 +1,1 @@
+This is an Color generator app where you can generate more than 30 different colors in a single click.
